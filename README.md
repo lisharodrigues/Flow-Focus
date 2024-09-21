@@ -36,5 +36,5 @@ A **Todo Application** developed using **JSP**, **Servlets**, **JDBC**, and **My
 4. **Deploy on Tomcat**:
    - Build the project using **Eclipse** or your preferred IDE.
    - Deploy the application on **Tomcat** server.
-   - 
+     
 5. **Run the application**
