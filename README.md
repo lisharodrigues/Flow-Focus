@@ -23,7 +23,7 @@ A **Todo Application** developed using **JSP**, **Servlets**, **JDBC**, and **My
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/todo-app.git
+   git clone https://github.com/lisharodrigues/Flow-Focus.git
    ```
 
 2. **Set up MySQL**:
